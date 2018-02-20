@@ -1,1 +1,1 @@
-# Shield expansor de IO para pinout Uno R3
+# Shield expansor de I/O para pinout Uno R3
